@@ -1,0 +1,24 @@
+# Core Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Statistical time-Series modelling
+statsmodels
+
+# Prophet Forecasting
+prophet
+
+# Interactive Dashboards
+streamlit
+
+# Jupyter Notebook
+ipykernel
+notebook
