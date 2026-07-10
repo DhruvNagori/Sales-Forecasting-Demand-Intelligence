@@ -4,6 +4,40 @@ An end-to-end data science project for analyzing retail sales, forecasting short
 
 The project uses the **Superstore Sales dataset** and combines time series forecasting, machine learning, anomaly detection, clustering, and an interactive Streamlit dashboard to support inventory and supply-chain planning.
 
+## Live Demo
+
+**Live Streamlit App:**  
+[Sales Forecasting & Demand Intelligence Dashboard](https://dhruv-sales-forecasting-demand-intelligence.streamlit.app)
+
+The dashboard allows users to:
+
+- View yearly and monthly sales performance
+- Explore sales forecasts by product category and region
+- Analyze detected sales anomalies
+- Visualize product demand clusters
+
+## Dataset
+
+This project uses the **Superstore Sales Forecasting Dataset** available on Kaggle.
+**Dataset Source:**  
+[Superstore Sales Forecasting Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
+The dataset contains historical retail transaction records including:
+
+- Order Date
+- Ship Date
+- Sales
+- Product Category
+- Sub-Category
+- Region
+- Customer Information
+
+For convenience, the dataset used in this project is included in this repository as:
+
+'train.csv'
+
+The dataset was used for exploratory data analysis, time-series forecasting, anomaly detection, and product demand segmentation.
+
 ## Project Objectives
 
 - Analyze historical sales trends and seasonality
