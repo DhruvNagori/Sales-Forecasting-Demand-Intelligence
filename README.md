@@ -16,6 +16,15 @@ The dataset used in this project is included in the repository as:
 
 It contains historical retail sales records with information such as order dates, shipping dates, product categories, sub-categories, regions, and sales values.
 
+## 🚀 Live Demo
+
+Experience the deployed interactive dashboard here:
+
+**Streamlit Dashboard:**  
+[https://MY-STREAMLIT-LINK.streamlit.app](https://dhruv-sales-forecasting-demand-intelligence.streamlit.app)
+
+> The dashboard allows users to explore historical sales trends, demand forecasts, anomaly detection, and product demand segmentation through an interactive interface.
+
 ## Project Objectives
 
 - Analyze historical sales trends and seasonality
