@@ -4,6 +4,18 @@ An end-to-end data science project for analyzing retail sales, forecasting short
 
 The project uses the **Superstore Sales dataset** and combines time series forecasting, machine learning, anomaly detection, clustering, and an interactive Streamlit dashboard to support inventory and supply-chain planning.
 
+## Dataset
+
+This project uses the **Superstore Sales Forecasting dataset** available on Kaggle.
+
+**Dataset Source:** [Sales Forecasting Dataset on Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
+The dataset used in this project is included in the repository as:
+
+`train.csv`
+
+It contains historical retail sales records with information such as order dates, shipping dates, product categories, sub-categories, regions, and sales values.
+
 ## Project Objectives
 
 - Analyze historical sales trends and seasonality
